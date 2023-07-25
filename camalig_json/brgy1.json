@@ -1,0 +1,34 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+  
+  {
+      "type": "Feature",
+      "properties": {
+		"Name":"This is the  Area of Barangay 2 Camalig Albay<br>",   
+		"color": "white",
+        "type":"point",
+		"opacity":"2",
+		"fillOpacity": "2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+				
+[123.651617,13.185896],
+[123.653965,13.185645],
+[123.656756,13.183662],
+[123.655389,13.180815],
+[123.655234,13.180595],
+[123.653700,13.183473],
+[123.651554,13.185134],
+[123.651617,13.185896]
+          ]
+        ]
+	   
+      }
+    }
+	
+	]
+}

@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+  
+  {
+      "type": "Feature",
+      "properties": {
+		"Name":"This is the  Area of Binitayan Camalig Albay<br>",   
+		"color": "white",
+        "type":"point",
+		"opacity":"2",
+		"fillOpacity": "2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+				
+
+[ 123.599065, 13.107846 ],
+[ 123.604109, 13.111738 ],
+[ 123.610102, 13.114145 ],
+[ 123.616994, 13.109573 ],
+[ 123.615995, 13.103639 ],
+[ 123.607808, 13.098217 ],
+[ 123.600966, 13.099458 ],
+[ 123.599065, 13.107846 ]
+          ]
+        ]
+	   
+      }
+    }
+	
+	]
+}

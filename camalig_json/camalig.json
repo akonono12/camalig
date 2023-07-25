@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+  
+{
+      "type": "Feature",
+      "properties": {
+		"Name":"This is the  Area of Anoling Camalig Albay<br>",   
+		"color": "white",
+        "type":"point",
+		"opacity":"2",
+		"fillOpacity": "2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+				
+[123.680048,13.250470],
+[123.686943,13.253328],
+[123.677981,13.201271],
+[123.673326,13.193604],
+[123.663821,13.192308],
+[123.662670,13.192622],
+[123.666996,13.197761],
+[123.662404,13.200957],
+[123.673770,13.219233],
+[123.672163,13.221641],
+[123.680048,13.250470]
+
+          ]
+        ]
+	   
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+		"Name":"This is the  Area of Bantohan Camalig Albay<br>",   
+		"color": "white",
+        "type":"point",
+		"opacity":"2",
+		"fillOpacity": "2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+				
+[123.623743,13.150615],
+[123.638163,13.158889],
+[123.631854,13.134608],
+[123.629456,13.136104],
+[123.626317,13.141148],
+[123.623724,13.150610],
+[123.623743,13.150615]
+          ]
+        ]
+	   
+      }
+    }
+	
+	]
+}

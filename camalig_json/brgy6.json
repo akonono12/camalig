@@ -1,0 +1,34 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+  
+  {
+      "type": "Feature",
+      "properties": {
+		"Name":"This is the  Area of Brgy 6 Camalig Albay<br>",   
+		"color": "white",
+        "type":"point",
+		"opacity":"2",
+		"fillOpacity": "2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+				
+
+[ 123.655709, 13.177893 ],
+[ 123.655688, 13.178147 ],
+[ 123.654833, 13.179426 ],
+[ 123.654421, 13.179827 ],
+[ 123.654698, 13.180106 ],
+[ 123.656272, 13.178385 ],
+[ 123.655709, 13.177893 ]
+          ]
+        ]
+	   
+      }
+    }
+	
+	]
+}

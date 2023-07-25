@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+  
+  {
+      "type": "Feature",
+      "properties": {
+		"Name":"This is the  Area of Bantohan Camalig Albay<br>",   
+		"color": "white",
+        "type":"point",
+		"opacity":"2",
+		"fillOpacity": "2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+				
+[123.623743,13.150615],
+[123.638163,13.158889],
+[123.631854,13.134608],
+[123.629456,13.136104],
+[123.626317,13.141148],
+[123.623724,13.150610],
+[123.623743,13.150615]
+          ]
+        ]
+	   
+      }
+    }
+	
+	]
+}

@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+  
+  {
+      "type": "Feature",
+      "properties": {
+		"Name":"This is the  Area of Brgy 7 Camalig Albay<br>",   
+		"color": "white",
+        "type":"point",
+		"opacity":"2",
+		"fillOpacity": "2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+				
+
+[ 123.655376, 13.180917 ], 
+[ 123.656110, 13.180149 ],
+[ 123.656692, 13.179949 ],
+[ 123.658846, 13.183358 ],
+[ 123.658600, 13.183505 ],
+[ 123.658097, 13.183569 ],
+[ 123.657732, 13.183858 ],
+[ 123.656983, 13.184179 ],
+[ 123.655376, 13.180917 ]
+          ]
+        ]
+	   
+      }
+    }
+	
+	]
+}

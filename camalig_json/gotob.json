@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+  
+  {
+      "type": "Feature",
+      "properties": {
+		"Name":"This is the  Area of Gotob Camalig Albay<br>",   
+		"color": "white",
+        "type":"point",
+		"opacity":"2",
+		"fillOpacity": "2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+				
+[123.653848, 13.146624],
+[123.647776, 13.156678],
+[123.648492, 13.160293],
+[123.648560, 13.163577],
+[123.653397, 13.162549],
+[123.653771, 13.146661],
+[123.653848, 13.146624]
+          ]
+        ]
+	   
+      }
+    }
+	
+	]
+}

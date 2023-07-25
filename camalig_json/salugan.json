@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+  
+  {
+      "type": "Feature",
+      "properties": {
+		"Name":"This is the  Area of Salugan Camalig Albay<br>",   
+		"color": "white",
+        "type":"point",
+		"opacity":"2",
+		"fillOpacity": "2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+				
+[123.662628, 13.200276],
+[123.668065, 13.199023],
+[123.666447, 13.183271],
+[123.665074, 13.183898],
+[123.663449, 13.185381],
+[123.662453, 13.185549],
+[123.661380, 13.185256],
+[123.656916, 13.188056],
+[123.651595, 13.187220],
+[123.662628, 13.200276]
+          ]
+        ]
+	   
+      }
+    }
+	
+	]
+}

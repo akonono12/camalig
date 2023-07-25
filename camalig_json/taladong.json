@@ -1,0 +1,34 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+  
+  {
+      "type": "Feature",
+      "properties": {
+		"Name":"This is the  Area of Tinago Camalig Albay<br>",   
+		"color": "white",
+        "type":"point",
+		"opacity":"2",
+		"fillOpacity": "2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+				
+[123,656790, 13.179311],
+[123.664084, 13.173183],
+[123.663771, 13.165884],
+[123.660382, 13.165838],
+[123.661304, 13.169442],
+[123.655400, 13.172027],
+[123.654195, 13.177785],
+[123,656790, 13.179311]
+          ]
+        ]
+	   
+      }
+    }
+	
+	]
+}

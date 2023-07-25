@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+  
+  {
+      "type": "Feature",
+      "properties": {
+		"Name":"This is the  Area of Gapo Cabangan Albay<br>",   
+		"color": "white",
+        "type":"point",
+		"opacity":"2",
+		"fillOpacity": "2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+				
+
+[ 123.664593, 13.181969 ],
+[ 123.666902, 13.180789 ],
+[ 123.675278, 13.180963 ],
+[ 123.677767, 13.191731 ],
+[ 123.676895, 13.195409 ],
+[ 123.664593, 13.181969 ]
+          ]
+        ]
+	   
+      }
+    }
+	
+	]
+}

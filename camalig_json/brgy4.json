@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+  
+  {
+      "type": "Feature",
+      "properties": {
+		"Name":"This is the  Area of Barangay 4 Camalig Albay<br>",   
+		"color": "white",
+        "type":"point",
+		"opacity":"2",
+		"fillOpacity": "2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+				
+[123.651440,13.182519],
+[123.654414,13.179847],
+[123.653516,13.179123],
+[123.654124,13.178344],
+[123.654212,13.178104],
+[123.652766,13.177736],
+[123.652507,13.177788],
+[123.651918,13.179784],
+[123.651575,13.180368],
+[123.651440,13.182519]
+
+          ]
+        ]
+	   
+      }
+    }
+	
+	]
+}
